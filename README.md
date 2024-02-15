@@ -1,5 +1,5 @@
-Velocity Child Berita 15
+Velocity Child Berita 17
 =================
 
-Child Theme for Berita 15.
+Child Theme for Berita 17.
 

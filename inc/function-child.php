@@ -448,13 +448,13 @@ function justg_get_sosmed() {
 	}
 }
 
-add_action( 'widgets_init', 'justgberita15_widgets_init', 55 );
+add_action( 'widgets_init', 'justgberita17_widgets_init', 55 );
 
-if ( ! function_exists( 'justgberita15_widgets_init' ) ) {
+if ( ! function_exists( 'justgberita17_widgets_init' ) ) {
 	/**
 	 * Initializes themes widgets.
 	 */
-	function justgberita15_widgets_init() {
+	function justgberita17_widgets_init() {
 
 		// Register footer widget area
 		for ($x = 1; $x <= 4; $x++) {
@@ -474,5 +474,5 @@ if ( ! function_exists( 'justgberita15_widgets_init' ) ) {
 		}
 
 	}
-} // End of function_exists( 'justgberita15_widgets_init' ).
+} // End of function_exists( 'justgberita17_widgets_init' ).
 
